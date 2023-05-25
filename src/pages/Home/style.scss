@@ -1,0 +1,27 @@
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(81, 225, 115);
+}
+
+.wrapper { 
+
+    h3 {
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    h1 {
+        font-size: 50px;
+        font-weight:bold;
+    }
+
+    button {
+        margin: 10px;
+        font-size: 20px;
+    }
+}
